@@ -1,0 +1,27 @@
+header{
+    background-image: url("https://us.123rf.com/450wm/wikagraphic/wikagraphic2102/wikagraphic210200030/163077239-initial-letter-ak-logotype-company-name-colored-red-and-orange-swoosh-design-isolated-on-dark.jpg?ver=6");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color: azure;
+    li{ 
+        margin-left:10%;
+        font-size:180%; 
+        font-family:'Times New Roman', Times, serif; 
+        margin-bottom:2%;
+    }
+}
+.Ach{
+    color:white;
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/023/486/348/small_2x/champion-golden-trophy-with-gold-stars-on-blue-dark-background-generation-ai-concept-of-success-and-achievement-gold-glitters-explosion-photo.jpg");
+    opacity: 1;
+    background-size: 100% 100%;
+    li{
+        font-size:200%;
+        
+        margin-bottom: 10px;
+
+    }
+    ul{
+        margin-left:10%;
+    }
+}

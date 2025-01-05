@@ -1,0 +1,43 @@
+
+b:hover{
+    border: 0.5px solid grey;
+    background-color:goldenrod;
+    color: blue;
+}
+.Buttons{
+    height:auto%;
+    width:100%;
+    background-image:url("https://png.pngtree.com/thumb_back/fh260/background/20200731/pngtree-blue-carbon-background-with-sport-style-and-golden-light-image_371487.jpg");
+    .btn{
+    size:20%;
+    margin: 3% 3% 3% 3%;
+   width: auto;
+   color: gold;
+   margin-left: 5%;
+    }
+    font-size:large;
+ 
+}
+li{
+    margin-left: 10%;
+    color:yellowgreen;
+}
+.home{
+    margin-top: 10px;
+    width: 100%;
+    height:100%;
+    background-repeat: no-repeat;
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYembZGxY4DCcyZGjrTD4o4OclntEDqKdmuQ&s");
+    background-size: 100% 100%;
+
+}
+#carouselExampleSlidesOnly{
+    margin-top: 5%;
+    margin-left: 3%;
+    margin-right: 3%;
+    img{
+        height: 75%;
+        width: 20%;
+        border: 15px solid gold;
+    }
+}

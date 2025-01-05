@@ -1,0 +1,13 @@
+.carousel-inner{
+    margin-top: 10px;
+    img{
+        height:650px;
+    }
+    h1{
+        color: gold;
+        font-size: 50px;
+    }
+    p{
+        font-size: 35px;
+    }
+}
