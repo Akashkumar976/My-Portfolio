@@ -1,27 +1,98 @@
-header{
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+}
+
+header {
     background-image: url("https://us.123rf.com/450wm/wikagraphic/wikagraphic2102/wikagraphic210200030/163077239-initial-letter-ak-logotype-company-name-colored-red-and-orange-swoosh-design-isolated-on-dark.jpg?ver=6");
     background-repeat: no-repeat;
-    background-size: 100% 100%;
+    background-size: cover;
     color: azure;
-    li{ 
-        margin-left:10%;
-        font-size:180%; 
-        font-family:'Times New Roman', Times, serif; 
-        margin-bottom:2%;
-    }
+    text-align: center;
+    padding: 80px 0;
+    position: relative;
 }
-.Ach{
-    color:white;
-    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/023/486/348/small_2x/champion-golden-trophy-with-gold-stars-on-blue-dark-background-generation-ai-concept-of-success-and-achievement-gold-glitters-explosion-photo.jpg");
-    opacity: 1;
-    background-size: 100% 100%;
-    li{
-        font-size:200%;
-        
-        margin-bottom: 10px;
 
+header h1 {
+    font-size: 3rem;
+    background: rgba(0, 0, 0, 0.5); 
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+header ul {
+    list-style: none;
+    padding: 0;
+    font-size: 1.2rem;
+}
+
+header ul li {
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 10%;
+    margin-bottom: 10px;
+    color: white;
+}
+
+header a {
+    color: #fff;
+    text-decoration: none;
+}
+
+header a:hover {
+    text-decoration: underline;
+}
+
+.Ach {
+    color: white;
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/023/486/348/small_2x/champion-golden-trophy-with-gold-stars-on-blue-dark-background-generation-ai-concept-of-success-and-achievement-gold-glitters-explosion-photo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 50px 20px;
+    opacity: 0.9; /* Slight transparency for text readability */
+}
+
+.Ach h2 {
+    font-size: 2.5rem;
+    text-align: center;
+    margin-bottom: 40px;
+    color: #FFD700; /* Gold color for the title */
+}
+
+.Ach ul {
+    list-style: none;
+    padding-left: 10%;
+}
+
+.Ach li {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 15px;
+    color: white;
+}
+
+.Ach li::before {
+    content: "✔️ "; 
+    font-size: 1.8rem;
+}
+
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 2.5rem;
     }
-    ul{
-        margin-left:10%;
+
+    header ul li {
+        font-size: 1rem;
+    }
+
+    .Ach h2 {
+        font-size: 2rem;
+    }
+
+    .Ach li {
+        font-size: 1.2rem;
     }
 }
