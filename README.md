@@ -28,7 +28,7 @@ In conclusion, a portfolio website using HTML, CSS, and PHP allows you to presen
 ![Makers Finishers](https://github.com/user-attachments/assets/af90d0e1-4dab-40ac-a008-440c33954a0d)
 ![JavaHackerCertificate](https://github.com/user-attachments/assets/081c89e6-9027-49e1-a57f-0d5df9fda1a3)
 ![HundiaInfotech](https://github.com/user-attachments/assets/b630da97-0324-4df1-bc08-59fe6ecb8381)
-![CelestraCertificate](https://github.com/user-attachments/assets/72b68315-eae7-4d51-994d-0b76819ee928)
+![CelestraCertificate](https://github.com/user-attachments/assets/86d6a190-03ba-4444-923e-052c3a75725f)
 ![ArcherInfotech](https://github.com/user-attachments/assets/0f828bda-cb48-4536-b0a3-633cae929dee)
 
 Author: Akashkumar Singh
